@@ -1,0 +1,25 @@
+table{
+    border: 2px solid darkmagenta;
+}
+div {
+    border: 5px solid hotpink;
+    padding: 10px;
+    margin:40px;
+}
+body{
+    background-color: black;
+    font-family: sans-serif;
+    text-align: center;
+    text-emphasis-color: white;
+    color: white;
+}
+.poop {
+    border: 5px solid  blue;
+}
+#yolo{
+    color: blue;
+}
+
+#weed{
+    color: green;
+}
