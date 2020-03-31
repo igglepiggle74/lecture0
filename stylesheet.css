@@ -1,25 +1,31 @@
-table{
-    border: 2px solid darkmagenta;
-}
-div {
-    border: 5px solid hotpink;
-    padding: 10px;
-    margin:40px;
-}
-body{
+.sidebar{
+    width: 30%;
+    margin: 0px;
+    height: 100vh;
     background-color: black;
     font-family: sans-serif;
-    text-align: center;
+    text-align: left;
     text-emphasis-color: white;
     color: white;
+    float:left;
 }
-.poop {
-    border: 5px solid  blue;
-}
-#yolo{
-    color: blue;
+.content
+{
+    float:right;
+    width: 70%;
+    
 }
 
-#weed{
-    color: green;
+html{
+    height: 100%;
+}
+h1{
+    margin: 0px;
+}
+body{
+    margin-top: 0px;
+    margin: 0px;
+}
+img{
+    margin: 10px;
 }
